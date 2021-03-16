@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## *summraized about the mindset*
 
-You can use the [editor on GitHub](https://github.com/emanmkhareez/mindset-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## A person's belief in personal qualities such as intelligence and talent, is it stable or growing?
+### The growth mindset believes that a person's abilities grow through practice and work, and that intelligence and talent are the starting point, no more.
 
-### Markdown
+ ### A fixed mindset that believes in fatigue and work does not improve personal traits.
+### For example, when you are faced with the challenges of a growth mindset, you embrace that challenge and try to solve it as opposed to a fixed mindset that tries to ignore it and forget it with something else.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![ growth mindset](https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# -How to maintain a growth mindset Here are the following tips
+1.All fatigue goes away upon achieving success.
+2.Don't get tired of trying until you achieve the goal.
+3. Face the problem do not avoid it.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[my profile](https://github.com/emanmkhareez/mindset/edit/gh-pages/index.md) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emanmkhareez/mindset-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
